@@ -1,5 +1,5 @@
 ### Hi there 👋 im Allan Vinicius, fullstack web developer, i'm glad you visited my profile on github, I hope you like it a lot 😊
-- 🔭 I’m currently working at Healthbit as a fullstack developer with NodeJS and Python
+- 🔭 I’m currently searching for a job as a fullstack developer with NodeJS and Python
 - 🌱 I’m currently learning Typescript and WebSockets
 - 🤔 I’m looking for help with WebSockets..
 - 💬 Ask me about everything
