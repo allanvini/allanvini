@@ -1,12 +1,12 @@
 ### Hi there 👋 im Allan Vinicius, fullstack web developer, i'm glad you visited my profile on github, I hope you like it a lot 😊
-- 🔭 I’m currently searching for a job as a fullstack developer with NodeJS and Python
-- 🌱 I’m currently learning Typescript and WebSockets
-- 🤔 I’m looking for help with WebSockets..
+- 🔭 I'm currently searching for a job as a fullstack developer with NodeJS and Python
+- 🌱 I'm currently learning Typescript and WebSockets
+- 🤔 I'm looking for help with WebSockets..
 - 💬 Ask me about everything
 - 📫 How to reach me: ✉️ allanvinisilva@gmail.com or my linkedin: https://www.linkedin.com/in/allan-vinicius-13ba4493/
 
 <div>
-  <a href="http://allan-vinicius-dev.web.app" target="_blank">
+  <a href="https://allan-vinicius-dev.web.app" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanvini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanvini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
